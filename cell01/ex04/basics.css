@@ -5,3 +5,29 @@ body{
     text-align: center;
     color: white;
 }
+.img-1{
+    width: 1000px;
+    height: 1000px;
+    margin: 70px 170px 0px 170px;
+}
+.img-2{
+    width: 1000px;
+    height: 1000px;
+}
+.link1{
+   margin-top: 100px; 
+   margin-left: 600px;
+}
+.link2{
+    margin-left: 1200px;
+}
+hr {
+    margin: 40px 0px 0px 0px;
+    height: 2px;
+    background-color: rgb(134, 134, 134);
+}
+.copyright{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 30px;
+    margin-left: 2420px;
+}
