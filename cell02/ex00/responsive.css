@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+}
+.box1{
+    width: 50%;
+    height: 170px;
+    background-color: darksalmon;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 130px 0px 0px 0px;  
+}
+.box2{
+    width: 50%;
+    height: 170px;
+    background-color: rgb(140, 255, 169);
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 130px 0px 0px 0px;
+}           
